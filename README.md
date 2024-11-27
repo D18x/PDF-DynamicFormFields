@@ -8,3 +8,5 @@ Template.pdf file will be used as template with the following dynamic fields:
 **PS:** data.csv file must have the columns in the same order as the index of the fields in template file.
 
 **NOTE:** The order of the fields that appears on the *.pdf file is not relevant.
+
+**TIP**: Using the Acrobat Reader Pro, it's necessary to add the field & SAVE. Then edit the fields Index & SAVE.
